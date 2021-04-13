@@ -1,0 +1,10 @@
+Command Arguments Order to run program { .exe, .sln, input files } for running in cmd:
+
+.exe file
+"C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\Debug\DecisionTree.exe"
+
+.sln file
+"C:\Users\Kyle\Desktop\NNU\Spring 2020\Machine Learning\DecisionTree\DecisionTree.sln"
+
+Input files (training data)
+"C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\a.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\circuit.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\continue.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\continue0.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\continue2.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\golf.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\golfc.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\nota.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\or.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\parity3.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\restaurantDecisionTree.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\simple.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\someparity3.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\split.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\toolittle.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\xor.in" "C:\Users\Kyle\Desktop\NNU\Machine Learning\DecisionTree\DecisionTree\testDataA4\xorc.in"
